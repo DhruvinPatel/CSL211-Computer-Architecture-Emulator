@@ -1,3 +1,3 @@
 all:
 	chmod +x run.sh
-	g++ emu.cpp reg.cpp -o dhruvin
+	g++ emu.cpp reg.cpp main.cpp -o dhruvin

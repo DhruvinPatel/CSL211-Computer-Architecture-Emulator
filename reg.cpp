@@ -1,6 +1,5 @@
 
 #include "reg.h"
-//#include "asd.cpp"
 using namespace std;
 
 void halo (void)
